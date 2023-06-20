@@ -43,5 +43,5 @@ serverApp.post("/", async (Request: Request, Response: Response) => {
     return JSON.stringify(frequencyOutput);
 });
 serverApp.listen(8000, () => {
-    console.log(`External Amplitude Processor: Ready to serve.`);
+    console.log(`External Frequency Processor: Ready to serve.`);
 });
