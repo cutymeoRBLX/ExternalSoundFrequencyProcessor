@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "start": "ts-node src/index"
+  },
   "dependencies": {
     "@wasm-audio-decoders/flac": "^0.1.12",
     "@wasm-audio-decoders/ogg-vorbis": "^0.1.7",
