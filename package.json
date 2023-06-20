@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "ts-node src/index"
+    "start": "npx ts-node src/index"
   },
   "dependencies": {
     "@wasm-audio-decoders/flac": "^0.1.12",
